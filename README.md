@@ -2,7 +2,9 @@
 
 ## Descripción
 
-El **Gestor de Inventario en Python** es una aplicación de consola sencilla para gestionar productos en un inventario. Utiliza una base de datos SQLite para almacenar la información de los productos, y permite a los usuarios realizar operaciones como agregar, actualizar, eliminar, y visualizar productos. También incluye funcionalidades de búsqueda y generación de reportes para productos con bajo stock.
+El **Gestor de Inventario en Python** es el proyecto integrador final del curso de Python en **Talento Tech**. Esta aplicación de consola permite gestionar un inventario con operaciones como agregar, actualizar, eliminar y visualizar productos. Además, incluye búsqueda avanzada y generación de reportes para productos con bajo stock, utilizando una base de datos SQLite.
+
+El proyecto demuestra el uso práctico de Python para resolver problemas reales, aplicando conceptos aprendidos durante el curso.
 
 ## Funcionalidades
 
