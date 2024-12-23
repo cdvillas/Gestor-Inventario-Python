@@ -23,29 +23,25 @@ Para ejecutar este proyecto, necesitas tener instalado Python 3.x y algunas bibl
 ## Instalación
 1. Clona el repositorio:
    
-    bash
   ```
-  git clone https://github.com/tu_usuario/gestor-inventario-python.git
-  cd gestor-inventario-python
+     git clone https://github.com/tu_usuario/gestor-inventario-python.git
+     cd gestor-inventario-python
   ```
 2. Crea y activa un entorno virtual:
 
-    bash
   ```
-  python -m venv venv
-  .\venv\Scripts\activate
+     python -m venv venv
+     .\venv\Scripts\activate
   ```
 3. Instala las dependencias:
 
-    bash
   ```
-  pip install colorama
+     pip install colorama
   ```
 4. Ejecuta el sistema:
 
-    bash
   ```
-  python app.py
+     python app.py
   ```
 ## Uso
 Cuando ejecutas el programa, se te presentará un menú interactivo con las siguientes opciones:
